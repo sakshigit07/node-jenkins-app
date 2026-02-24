@@ -1,1 +1,1 @@
-# node-jenkins-app
+# node-js-app-CICD
